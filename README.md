@@ -8,6 +8,6 @@ According to the submission guidelines ( http://www.poms.org/journal/author_inst
 
 The subtlety is that the first author's last name is shown first while follow-up authors have their first name first.
 
-This BST file accounts for that.
+This BST file accounts for that. If you have additional comments, feel free to create a pull request or an issue.
 
-Credits to Christiane Haubitz for creating the main template. We have merely added URLs to books and articles.
+Credits to Christiane Haubitz for creating the main template.

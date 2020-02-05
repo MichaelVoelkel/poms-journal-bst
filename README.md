@@ -1,4 +1,4 @@
-# Production and Operations Management Journal (POMS) BibTeX file
+# Production and Operations Management Journal (POMS) BibTeX style file
 
 *Disclaimer:* This is not an official package.
 

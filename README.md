@@ -1,6 +1,6 @@
 # Production and Operations Management Journal (POMS) BibTeX style file
 
-*Disclaimer:* This is not an official package.
+*Disclaimer:* This is not an official file but just our custom-made one.
 
 According to the submission guidelines ( http://www.poms.org/journal/author_instructions/ ), a literature source should have a format like:
 
